@@ -59,6 +59,7 @@ reference:
       - importance_sampling
       - weights.importance_sampling
       - pareto-k-diagnostic
+      - mcse_report
   - title: Model comparison weighting/averaging
     desc: |
       Functions for comparing models and computing model weights via stacking of predictive distributions or pseudo-BMA weighting.
